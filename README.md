@@ -25,6 +25,13 @@ Rapid evolution in the way of deployment and configure the services without any 
 
 Its a Human readable Language, usally it does not Require commas, Syntaxs like Arm (Azure Resources Manager).
 
+terraform init
+terraform plan
+terraform fmt;terraform validate
+terraform apply
+terraform apply --auto-approve(user prompting will not be done using additional attribute)
+
+
 
 
 
